@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.directory-image {
+  width: 100px;
+  border-radius:10px;
+}
+
+.directory-entry {
+  background-color: gold;
+  border-radius:5px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
